@@ -1,0 +1,10 @@
+node_modules/
+dist/
+dist-ssr/
+*.local
+*.log
+.env
+.env.*
+.DS_Store
+*.pem
+!capacitor.config.ts
