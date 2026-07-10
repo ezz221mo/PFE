@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
   "compilerOptions": {
     "target": "ES2020",
@@ -21,7 +20,7 @@
   "include": ["src/**/*"],
   "exclude": ["node_modules", "build", "dist", "**/*.test.ts"]
 }
-=======
+
 {
   "compilerOptions": {
     "target": "ES2020",
@@ -44,4 +43,3 @@
   "include": ["src/**/*"],
   "exclude": ["node_modules", "build", "dist", "**/*.test.ts"]
 }
->>>>>>> c2523ed (add correct gitignore and capacitor config)
